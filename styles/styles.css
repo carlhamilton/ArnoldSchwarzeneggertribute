@@ -1,0 +1,13 @@
+
+
+ .container img { 
+     width: 100%;
+    }
+ .container {
+     display: table-cell;vertical-align: middle;
+    }
+
+.canvas
+{
+  border: 3px solid #C0C0C0 !important;
+}
