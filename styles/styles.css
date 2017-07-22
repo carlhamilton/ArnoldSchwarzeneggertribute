@@ -1,13 +1,24 @@
+.container{
+    text-align: center;
+}
 
-
- .container img { 
-     width: 100%;
-    }
- .container {
-     display: table-cell;vertical-align: middle;
-    }
-
+  
+ ul#weightlifting {
+ list-style-type: none;
+ }
 .canvas
 {
   border: 3px solid #C0C0C0 !important;
+    
+    
 }
+body{
+  background-color:gray;
+  text-align: center;
+}
+  img
+{
+    width:100%;
+    
+}
+
